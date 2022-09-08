@@ -1,0 +1,33 @@
+Comme évoqué lors de notre point ce matin, voici un planning pour votre intégration au sein de nos périmètre CPAO et ConfServices
+
+Semaine 1 : 05/09 : Lors de cette semaine je serai votre référent suivre et vous aider dans ces tâches
+•	Arrivée 8h30 (je vous fais suivre un email avec les différents meets)
+•	Récupération des PC
+•	Vérification des accès PC
+•	Présentation de chaque périmètre CPAO ou Conf Services
+•	Demande administrateur
+•	Demande accès aux drives des différents périmètre (gDrive & Confluence)
+•	E-Learning VersionOne
+•	Fiche Accréditation
+•	Fiche de Mission
+•	
+
+Semaine 2 : 12/09
+•	Du 12 au 15 de 13h30 a 17h30 : Formation SAFe for Teams (je vous fais suivre un email avec les informations)
+•	Installation des environnements de développements
+•	Présentation des applications fonctionnelle et technique 
+
+Semaine 3 : 19/09
+•	Fin des installations des environnements de travail
+•	Présentation process / flow de développement (GIT, Pipeline, Docs etc)
+•	Présentation des applications (suite si nécessaire)
+•	Sociabilisation PI Planning
+
+Semaine 4 : 26/09
+•	PI Planning : 
+o	CPAO : Lundi 26 et Mardi 27
+o	ConfService : Mardi 27 Mercredi 28 et Jeudi 29
+
+Semaine 5 : 03/10
+•	Début de l'intégration dans chacune de vos équipes et périmètres 
+Ce planning pourra bien sur évoluer pour s'adapter aux différentes contraintes se présentant si nécessaire.

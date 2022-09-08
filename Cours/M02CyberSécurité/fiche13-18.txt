@@ -1,0 +1,134 @@
+//////////  13 
+Les personnes dont vous traitez les données ont des droits sur ces données : droit d’accès, de rectification, d’opposition, d’effacement, à la portabilité et à la limitation du traitement.
+
+mentionner une adresse e-mail ou un formulaire web au moment de l’information des personnes, ainsi que dans votre politique de vie privée.
+
+faciliter l’exercice des droits des personnes, ceux-ci peuvent être aussi implémentés, totalement ou en partie, directement dans l’application ou le logiciel que vous développez....
+
+Avant tout, en cas d’accès par une personne pour exercer ses droits, gérer son authentification de façon sécurisée.
+tracez également toutes les opérations ayant un impact sur ses données personnelles.
+
+///////////////   14
+conservation des données, limitée dans le temps 6 mois a 20 ans, archivage, suppression
+
+
+//////////////////  15 
+Dans le cadre d’un développement pour un organisme privé (entreprises, associations, etc.), les bases légales les plus souvent utilisées sont :
+
+le contrat : le traitement est nécessaire à l’exécution ou à la préparation d’un contrat entre la personne concernée et l’organisme mettant en place le traitement ;
+
+l’intérêt légitime : l’organisme mettant en place le traitement poursuit un intérêt "légitime" à mettre en place le traitement et celui-ci n’est pas susceptible d’affecter les droits et libertés des personnes concernées ;
+
+le consentement : la personne concernée a explicitement consenti au traitement.
+
+Une seule base légale doit être choisie.....
+
+//////////////////// 16 
+
+analyse traceur
+
+La CNIL a identifié cinq catégories de finalité qui nécessitent obligatoirement un consentement préalable de l'utilisateur avant leur dépôt:
+la publicité personnalisée ;
+la mesure de la publicité (non ciblée) ;
+la publicité geolocalisée ;
+la personnalisation du contenu (éditorial ou en termes de produits) ;
+le partage sur les réseaux sociaux.
+
+////////////// 17
+
+fréquentation
+Utilisant des cookies ou d’autres traceurs, ils peuvent être exemptés de consentement sous certaines conditions:
+
+- avoir une finalité strictement limitée à la seule mesure de l’audience du site ou de l’application
+
+- ne pas permettre le suivi global de la navigation de la personne sur différents sites web ou applications. 
+
+- servir uniquement à produire des données statistiques anonymes
+
+- ne pas conduire à un recoupement des données avec d’autres traitements ou à ce que les données soient transmises à des tiers.
+
+La CNIL recommande par ailleurs que :
+
+- les utilisateurs soient informés de la mise en œuvre de ces traceurs et puissent s'opposer à ce dépôt.
+
+- la durée de vie des traceurs soit limitée à une durée permettant une comparaison pertinente des audiences dans le temps.
+
+-une durée maximale de vingt-cinq mois.
+
+-fassent l’objet d’un réexamen périodique.
+
+//////////// 18 sql
+
+attaques informatiques
+
+La destruction, la perte, l'altération, ou la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées par un organisme constituent une violation de données personnelles.
+
+En tant que développeuse ou développeur :
+- vérifier que l’émetteur de cette requête est autorisé à accéder à la ressource associée.
+
+- valider et vérifier la bonne construction des paramètres reçus en entrée.
+
+- utiliser des identifiants de ressource qui ne soient ni uniquement numériques, ni consécutifs.
+
+- rendre le « path traversal » inopérant (url)
+
+- sensibiliser régulièrement les utilisateurs aux risques d’utiliser un même mot de passe pour plusieurs comptes.
+
+- proposer un mécanisme de double authentification
+
+- limiter la capacité des robots à multiplier les requêtes.
+
+- prévenir les utilisateurs par courriel en cas de connexion à leur compte à partir d’un nouvel appareil.
+
+- forcer l'utilisateur à utiliser des mots de passe conformes aux recommandations...
+
+- limiter le nombre de tentatives successives...
+
+- inviter voire contraindre l'utilisateur à utiliser une authentification multi-facteurs.
+
+- prévenir les utilisateurs par courriel en cas de en cas de connexion à leur compte à partir d’un nouvel appareil.
+
+- afficher la date et l’heure de la dernière connexion sur l’interface de l’utilisateur
+
+- mettre à jour les composants logiciels régulièrement.
+
+- diligenter des audits de sécurité (tests de pénétration) de façon périodique et après chaque mise à jour significative.
+
+- neutraliser les caractères utilisés pour l’insertion de script.
+
+- vérifier les éléments récupérés en paramètre.
+
+- vérifier les téléversements (upload).
+
+- exécuter des outils automatisés de détection de failles.
+
+- utiliser des requêtes préparées (Prepared Statements).
+
+- échapper les caractères susceptibles de provoquer une injection, en utilisant des fonctions spécialisées ;
+
+- restreindre et contrôler les entrées externes autant que possible.
+
+- vérifier les données externes.
+
+- mettre en œuvre une gestion fine des droits d’accès à la base de données. 
+Il est également possible de restreindre les droits de l'utilisateur à une seule table ou une seule base de données.
+
+- neutraliser les messages d’erreur ex : erreur 403 
+
+/////    malware, ou logiciel malveillant
+
+- maintenir à jour ses systèmes et logiciels.
+
+- faire des sauvegardes régulières des données, les tester régulièrement et en conserver au moins une copie hors du réseau de l’organisme.
+
+- sensibiliser les utilisateurs aux risques et aux bonnes pratiques.
+
+- ne pas utiliser de compte ayant des droits « administrateur » pour l’usage quotidient.
+
+- ne pas installer de logiciels piratés ou issus de sources non fiables ;
+
+- cloisonner son réseau interne
+
+- utiliser un proxy web permettant de bloquer les sites pouvant diffuser de tels logiciels.
+
+

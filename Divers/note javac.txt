@@ -1,0 +1,79 @@
+C:\Program Files\Java\jdk1.8.0_202\bin
+
+[12:49] Mohamed EL BABILI
+    La poo est indispensable car les applications sont de + en + volumineuse avec des failles de sécurité qui sont réduites lorsqu'on travaille avec le modèle objet de langages robustes comme java. La poo permet de représenter le monde réel virtuellement et de faciliter la compréhension d'une application, elle permet donc d'apporter plus de lisibilité et de réduire le code en factorisant ou spécialisant des classes via notamment l'héritage.  Elle permet enfin le découpage par couche inter dépendante permettant aux objets d'inter agir entre eux.
+la modélisation d'un SI complexe est devenu nécessaire notamment en utilisant uml pour éviter les erreurs d'architecture ou de conception et surtout de faciliter le travail en équipe...
+
+
+Ma def du polymorphisme : Lorsque plusieurs classes héritent de la même classe mère dans laquelle on peut définir une méthode abstraite, celle-ci sera obligatoirement redéfini dans les classes filles et appelable à l'exécution par ex dans le cas d'un parcours de liste d'objets
+
+
+
+
+
+////////////////////////////////////////////
+En fait ta classe est placée par défaut dans un package
+
+Prenons les hypothèses suivantes : 
+
+1) Vous avez créé un projet java appelé "projet1" 
+
+=> Eclipse vous créé donc à ce moment là un dossier bin et src +2 fichiers (.classpath et .project) dans le dossier projet1/sdz1
+
+2) Vous avez ensuite créé une classe appelée "sdz1" dans ce projet.
+
+=> Eclipse vous créé automatiquement votre classe en la mettant dans un "package" car il est conseillé de faire comme ça.
+
+=> C'est pour ça que dans le dossier "src" vous n'avez pas directement votre classe mais que vous avez à nouveau un dossier nommé "projet1" qui correspond au package.
+
+Comment compiler et exécuter en ligne de commande : 
+
+En partant de ce constant quand vous enregistrez votre classe Hello world elle se trouve donc dans un package d'où la ligne en haut de votre code qui indique : package projet1;
+
+Pour compiler en ligne de commande il vous faut, (une fois la variable PATH configurée) aller dans le dossier qui contient la classe
+
+=> Chez moi par exemple je me place ici : "C:\Users\Arnaud_2\workspace\projet1\src\projet1"
+=> Si je tape la commande "dir" dans ce dossier je peux voir mon fichier sdz1.java
+
+
+Répertoire de C:\Users\Arnaud_2\workspace\projet1\src\projet1
+ 
+08/06/2014  23:45    <DIR>          .
+08/06/2014  23:45    <DIR>          ..
+08/06/2014  23:09               201 sdz1.java
+               1 fichier(s)              201 octets
+               2 Rép(s)  102 751 244 288 octets libres
+
+Je compile en tapant la commande "javac sdz1.java" 
+
+Dans mon cas voici ce qui s'affiche dans mon cmd :
+
+C:\Users\Arnaud_2\workspace\projet1\src\projet1>javac sdz1.java
+
+
+
+Si vous essayez ensuite de lancer votre programme à partir du même dossier ça ne marchera pas car vous êtes dans un package.
+Pour que l’exécution marche vous devez remonter d'un niveau dans l'arborescence en tapant "cd.."
+
+Dans mon cas je me retrouve ici :  C:\Users\Arnaud_2\workspace\projet1\src\
+C'est à partir de ce dossier "src" que je vais exécuter mon programme en lui indiquant dans quel package se trouve mon fichier sdz1.class (fichier compilé)
+
+
+
+J'exécute en tapant la commande "java projet1/sdz1" (on n'indique pas le .class à la fin du fichier)
+
+Dans mon cas voici ce qui s'affiche sur mon cmd :
+
+C:\Users\Arnaud_2\workspace\projet1\src>java projet1/sdz1
+Hello World !
+My name is
+Arnaud
+
+Voila :)
+
+
+
+Project > Generate Javadoc > Next > Next
+
+Ajouter dans Extra Javadoc options:
+-encoding UTF-8 -charset UTF-8 -docencoding UTF-8    pour javadoc

@@ -1,0 +1,27 @@
+1/ Dans la continuité de l’appli fil rouge, vous devez d’abord mettre en œuvre une api avec Json Server et récupérer les formations comme vu avec la masterclass.
+
+2/ Ensuite, vous devez mettre en œuvre un formulaire d’authentification qui permet aux seuls utilisateurs connectés de passer commande
+
+3/ Enfin, vous devez permettre aux seuls administrateurs d’ajouter, modifier ou supprimer des formations, de même il peut passer commande
+
+4/ crypter mdp
+
+
+
+Store
+
+Components
+
+Actions-Evenements
+
+Selector
+
+Reducer
+
+Effects
+
+State
+
+
+
+Ce serait ça en gros les parties à expliquer

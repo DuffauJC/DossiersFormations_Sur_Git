@@ -1,0 +1,5 @@
+-> Ajouter le pattern factory afin d'anticiper sur l'évolution de notre application
+-> afficher les catégories au niveau application
+-> afficher les articles par catégorie avec possibilitée d'ajout au caddy à tout instant
+-> gestion de la commande une fois validé doit être en mémoire dans un premier temps
+-> modéliser le transfert d'une commande en base puis le mettre en oeuvre

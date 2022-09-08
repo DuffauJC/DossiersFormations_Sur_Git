@@ -1,0 +1,141 @@
+Programme de la semaine : PEDAGOGIE ACTIVE
+-> Lundi / Mardi : Html / Css -> reproduire à l'identique le site d'Fms ou Airbus [Christophe Hugo Tristan]
+
+-> Mercredi : Ecmascript / Javascript / VSC -> appli fil rouge [Caroline Sarah Jc]
+
+
+-> Jeudi : Dom / Event -> appli fil rouge [Delemerie Mathieu Belkacem]
+-> Vendredi : Frameworks Tailwind/Boostrap/Jquery [Sébastien Eric Martial]
+
+
+
+[Savoir utiliser la doc en ligne : MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+(La version anglaise toujours plus récente)
+
+[DevDocs API Documentation](https://devdocs.io/)
+(Activer les données hors ligne)
+
+[Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+(Question de compatibilité avec votre browser)
+
+[Manipuler le code HTML (partie 1/2) - Dynamisez vos sites web avec JavaScript ! - OpenClassrooms](https://openclassrooms.com/en/courses/1916641-dynamisez-vos-sites-web-avec-javascript/1918282-manipuler-le-code-html-partie-1-2)
+
+[Tuto Fr sur Hml/Css/Js/...](https://www.grafikart.fr/)
+
+[Tuto Fr Hml/Css/Js/...](https://www.pierre-giraud.com/)
+
+[Google Fonts](https://fonts.google.com/)
+
+
+
+in my last job i was forklift driver ?
+i was born in Marseille ?
+two years ago i had a ticket for Mars ?
+
+Lundi, je suis allé dans les Landes.
+je tape du texte.
+Ce matin j'ai arrosé les géraniums.
+J'écoute Christophe chanter sous la pluie.
+Je ne sait plus quoi écrire.
+//////
+On Monday, I went to the Landes.
+I'm typing.
+This morning I watered the geraniums.
+I listening to Christophe singing in the rain.
+I don't know what to write anymore.
+
+/////
+Les joies de l'aventure, j'ai connu ça lorsque que j'étais jeune. Aujourd'hui ma plus grande aventure, c'est de s'occuper du potager.
+
+Je cherche toujours un endroit ou allais pour pouvoir de nouveaux expérimenter cette joie.
+
+Mais cela fait longtemps que j'ai perdue les capacités pour faire quoi que ce soit de grandiose.
+
+Alors je tenais à te remercier pour les moments que tu es venue passer avec moi autour de cette table jeune homme.
+
+Il me permet de me sentir de nouveaux utile et en vivant.
+///////
+I knew the joys of adventure when I was young. Today my greatest adventure is tending the vegetable garden.
+
+I am still looking for a place to go to experience this joy again.
+
+But it's been a long time since I lost the ability to do anything great.
+
+So I wanted to thank you for the moments you came to spend with me around this table young man.
+
+It makes me feel useful and alive again.
+
+///////////
+J'ai demandé une phrase à Sarah
+ 
+Elle m'a répondu :
+ 
+"Sarah est extraordinaire"
+ 
+Sarah ne manque pas de confiance en elle
+ 
+Elle n'a fait que chanter ses louanges ce matin.
+//////
+I asked Sarah for a sentence
+ 
+She replied:
+ 
+"Sarah is amazing."
+ 
+Sarah is not lacking in self-confidence
+ 
+She did nothing but sing her praises this morning.
+
+It makes me feel useful and alive again.
+/////
+Tristan a acheté des chocolatines.
+J'adore en manger mais ca met des miettes partout sur mon clavier.
+En plus quand j'en mange je parle mal anglais.
+Valerie ne m'a pas vu heureusement.
+Du coup j'ai mangé une autre chocolatine
+////
+Tristan has bought chocolates.
+I love to eat them but they get crumbs all over my keyboard.
+Plus when I eat them I speak English badly.
+Luckily Valerie didn't see me.
+So I ate another chocolatine
+///////////
+Quand j'ai vu Tristan la première fois, il était tel un ange, j'ai trouvé la foi.
+When I first saw Tristan, he was like an angel, I found faith.
+J’ai cuisiné des sablés pour notre voyage.
+J’ai cousu une robe.
+Nous avons partagé un bon moment.
+Elle a beaucoup rigolé.
+Vous avez marché longtemps
+///////
+I baked shortbread for our trip.
+I sewed a dress.
+We had a good time.
+She laughed a lot.
+You walked a long way
+/////////////
+Je n’ai jamais travaillé avec java angular.
+J’écoute Amy Winehouse, elle chante valérie !
+Je n’ai pas beaucoup dormi car ma fille à fait le mur pour fêter le bac de ses copains.
+J’ai dû aller la chercher en ville à 3h du matin.
+Notre voyage dans les Landes m’a dépaysé !!
+//////
+I have never worked with java angular.
+I listen to Amy Winehouse, she sings valerie!
+I didn't sleep much because my daughter snuck out to celebrate her friends' graduation.
+I had to pick her up in town at 3am.
+Our trip to the Landes gave me a change of scenary!
+/////
+Il y a deux jours, j'ai planté les plans de tomates. 
+Aujourd'hui je plante les salades et arrose le tout.
+///
+Two days ago I planted the tomato plants. 
+Today I planted the salads and watered everything.
+
+
+///////////
+la réunion démarre à  14 heures cet après-midi
+the meeting starts at 2 PM this afternoon
+
+
+

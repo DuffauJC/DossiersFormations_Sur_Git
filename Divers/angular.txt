@@ -1,0 +1,7 @@
+npm install -g @angular/cli
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+ng new my-app
+
+ng generate component <component-name>
